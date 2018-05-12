@@ -2117,7 +2117,7 @@ body {
 .cid-qRMrWtLc6c {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: url("../../../assets/images/bb-1920x1200.jpg");
+  background-color: #ecebe6;
 }
 .cid-qRMrWtLc6c .mbr-section-subtitle {
   color: #ffffff;
@@ -2143,7 +2143,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #635a51;
+  color: #5c5146;
 }
 .cid-qRMrWtLc6c .period {
   display: block;
@@ -2165,7 +2165,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #635a51;
+  color: #5c5146;
 }
 .cid-qRMrWtLc6c .countdown-cont {
   max-width: 700px;
@@ -2203,52 +2203,6 @@ body {
 }
 .cid-qRMrWtLc6c .mbr-section-subtitle B {
   color: #4f4943;
-}
-.cid-qRMvQ52KiE {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
-.cid-qRMvQ52KiE .nav-tabs .nav-item.open .nav-link:focus,
-.cid-qRMvQ52KiE .nav-tabs .nav-link.active:focus {
-  outline: none;
-}
-.cid-qRMvQ52KiE .nav-tabs {
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  border-bottom: none;
-}
-.cid-qRMvQ52KiE .nav-tabs .nav-item {
-  padding: .5rem;
-}
-.cid-qRMvQ52KiE .nav-tabs .nav-link {
-  color: #ffffff;
-  font-style: normal;
-  font-weight: 500;
-  border: 1px solid #ffffff;
-  transition: all .5s;
-}
-.cid-qRMvQ52KiE .nav-tabs .nav-link:hover {
-  cursor: pointer;
-  background-color: #149dcc;
-}
-.cid-qRMvQ52KiE .nav-tabs .nav-link.active {
-  font-weight: 500;
-  color: #ffffff;
-  font-style: normal;
-  background-color: #149dcc;
-  border-color: #149dcc;
-}
-.cid-qRMvQ52KiE .nav-tabs .nav-link.active:hover {
-  background-color: #149dcc;
-}
-.cid-qRMvQ52KiE p {
-  color: #ffffff;
-}
-.cid-qRMvQ52KiE .mbr-text {
-  text-align: center;
 }
 .cid-qRLSNCMGUb {
   padding-top: 90px;
@@ -2294,9 +2248,9 @@ body {
   color: #4f4943;
 }
 .cid-qRMwcACY2H {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #f9f9f9;
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #e6e0d9;
 }
 .cid-qRMwcACY2H p {
   color: #767676;
@@ -2353,7 +2307,7 @@ body {
   }
 }
 .cid-qRMwcACY2H H4 {
-  text-align: center;
+  text-align: right;
 }
 .cid-qRMwcACY2H .panel-text {
   text-align: center;
@@ -2361,7 +2315,7 @@ body {
 .cid-qRMxYVOChp {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background-color: #cccccc;
 }
 .cid-qRMxYVOChp p {
   color: #767676;
@@ -2418,10 +2372,89 @@ body {
   }
 }
 .cid-qRMxYVOChp DIV {
-  text-align: center;
+  text-align: right;
 }
 .cid-qRMxYVOChp H4 {
-  text-align: center;
+  text-align: right;
+}
+.cid-qRMHM9u2bW {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #cebfaf;
+  background: linear-gradient(45deg, #cebfaf, #000000);
+}
+.cid-qRMHM9u2bW .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-qRMHM9u2bW .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qRMHM9u2bW .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qRMHM9u2bW .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qRMHM9u2bW H1 {
+  text-align: right;
+}
+.cid-qRMHM9u2bW .mbr-text,
+.cid-qRMHM9u2bW .mbr-section-btn {
+  text-align: right;
+}
+.cid-qRMJHBYGeG {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+  background: linear-gradient(45deg, #efefef, #000000);
+}
+@media (min-width: 992px) {
+  .cid-qRMJHBYGeG .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qRMJHBYGeG .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qRMJHBYGeG .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qRMLASETIE {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f295;
+  background: linear-gradient(45deg, #f9f295, #000000);
+}
+@media (min-width: 992px) {
+  .cid-qRMLASETIE .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qRMLASETIE .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qRMLASETIE .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qRMLASETIE .mbr-text,
+.cid-qRMLASETIE .mbr-section-btn {
+  text-align: right;
 }
 .cid-qRLe3mW69d {
   padding-top: 60px;
